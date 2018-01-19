@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
+  "repository": "git@github.com:pepetopo/hapi-tutorial.git",
   "dependencies": {
     "hapi": "^17.2.0",
     "hapi-auth-jwt2": "salzhrani/hapi-auth-jwt2#v-17",
