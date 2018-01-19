@@ -1,0 +1,18 @@
+{
+  "name": "hapi-tutorial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.2.0",
+    "hapi-auth-jwt2": "salzhrani/hapi-auth-jwt2#v-17",
+    "jwks-rsa": "^1.2.1",
+    "mongoose": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
